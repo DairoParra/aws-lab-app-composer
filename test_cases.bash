@@ -1,5 +1,5 @@
 #Replace URL with the Invoke URL above
-export INVOKE_URL="https://su1ti2m7ea.execute-api.us-east-1.amazonaws.com/Prod"
+export INVOKE_URL="APIGATEWAY_ENDPOINT"
 
 # Casos de prueba
 

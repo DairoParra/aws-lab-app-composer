@@ -33,6 +33,7 @@ Para comenzar con el curso, sigue estos pasos:
 1. Clona este repositorio para tener acceso al material y los ejercicios del curso.
 2. Instala las herramientas y software recomendado listados en la sección de recursos adicionales.
 3. Sigue las lecciones y prácticas propuestas en el orden sugerido.
+4. Puedes hacer uso del archivo test_cases.bash para probar tus recursos.
 
 ## Recursos Adicionales 🛠️
 
