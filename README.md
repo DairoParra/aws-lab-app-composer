@@ -1,8 +1,9 @@
-# WEBINAR-AWS Application Composer - Bootcamp Institute 🎓
+# WEBINAR AWS Application Composer - Bootcamp Institute 🎓
 
+<!-- markdownlint-disable MD033 -->
 <img src="https://bootcamp-institute.com/cdn/shop/files/Bootcamp-Institute_Aprende-Cloud-computing-con-los-expertos.jpg?v=1650398319" alt="Logo" width="200" height="100">
 
-Bienvenido al repositorio oficial del **Desarrollo Serverless en AWS**, impartido por **[Nombre del Instructor](Link al perfil del instructor)**, especialista en arquitecturas serverless y AWS. Este curso es parte de la oferta educativa de **Bootcamp Institute**, diseñado para equiparte con las habilidades y conocimientos necesarios para desarrollar aplicaciones escalables y eficientes utilizando servicios serverless en AWS.
+Bienvenido al repositorio oficial del **Webinar AWS Application Composer**, impartido por **[Dairo Parra](https://www.linkedin.com/in/dairo-parra/)**, especialista en arquitecturas serverless y AWS. Este curso es parte de la oferta educativa de **Bootcamp Institute**, diseñado para equiparte con las habilidades y conocimientos necesarios para desarrollar aplicaciones escalables y eficientes utilizando servicios serverless en AWS.
 
 ## Objetivo del Curso 🎯
 
@@ -10,20 +11,20 @@ El objetivo de este curso es brindarte una comprensión profunda de cómo diseñ
 
 ## ¿Qué Aprenderás? 📚
 
--   Introducción a la arquitectura serverless y sus beneficios.
--   Trabajar con AWS Lambda para la ejecución de código sin servidor.
--   Uso de Amazon API Gateway para la creación de APIs RESTful.
--   Manejo de datos con Amazon DynamoDB.
--   Integración de servicios serverless para crear aplicaciones completas.
--   Mejores prácticas de seguridad y optimización de costos en arquitecturas serverless.
+- Introducción a la arquitectura serverless y sus beneficios.
+- Trabajar con AWS Lambda para la ejecución de código sin servidor.
+- Uso de Amazon API Gateway para la creación de APIs RESTful.
+- Manejo de datos con Amazon DynamoDB.
+- Integración de servicios serverless para crear aplicaciones completas.
+- Mejores prácticas de seguridad y optimización de costos en arquitecturas serverless.
 
 ## Requisitos ✅
 
 Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
 
--   Conocimientos básicos de programación (preferentemente en Python o Node.js).
--   Una cuenta de AWS (puedes usar el nivel gratuito).
--   Herramientas de desarrollo como Git, Postman y un IDE de tu preferencia.
+- Conocimientos básicos de programación (preferentemente en Python o Node.js).
+- Una cuenta de AWS (puedes usar el nivel gratuito).
+- Herramientas de desarrollo como Git, Postman y un IDE de tu preferencia.
 
 ## Cómo Empezar 🚀
 
@@ -35,9 +36,9 @@ Para comenzar con el curso, sigue estos pasos:
 
 ## Recursos Adicionales 🛠️
 
--   [Documentación oficial de AWS para desarrolladores](https://docs.aws.amazon.com/)
--   [AWS CLI](https://aws.amazon.com/cli/)
--   [Serverless Framework](https://www.serverless.com/)
+- [Documentación oficial de AWS para desarrolladores](https://docs.aws.amazon.com/)
+- [AWS CLI](https://aws.amazon.com/cli/)
+- [Serverless Framework](https://www.serverless.com/)
 
 ## Conéctate con Bootcamp Institute 🌐
 
@@ -45,7 +46,7 @@ Para comenzar con el curso, sigue estos pasos:
 
 ## ¿Tienes Preguntas? 🤔
 
-Si tienes preguntas o necesitas asistencia, no dudes en contactar al instructor del curso o a nuestro equipo de soporte en **operaciones@bootcamp.institute**.
+Si tienes preguntas o necesitas asistencia, no dudes en contactar al instructor del curso o a nuestro equipo de soporte en **<operaciones@bootcamp.institute>**.
 
 ## Contribuir 💡
 
