@@ -62,7 +62,7 @@ Resources:
       CodeUri: src/GetItemsFunction
       Handler: index.handler
       Runtime: nodejs16.x
-      MemorySize: 3008
+      MemorySize: 128
       Timeout: 30
       Tracing: Active
       Events:
@@ -98,7 +98,7 @@ Resources:
       CodeUri: src/PutItemsFunction
       Handler: index.handler
       Runtime: nodejs16.x
-      MemorySize: 3008
+      MemorySize: 128
       Timeout: 30
       Tracing: Active
       Events:
@@ -129,7 +129,7 @@ Resources:
       CodeUri: src/GetItemFunction
       Handler: index.handler
       Runtime: nodejs16.x
-      MemorySize: 3008
+      MemorySize: 128
       Timeout: 30
       Tracing: Active
       Events:
@@ -160,7 +160,7 @@ Resources:
       CodeUri: src/DeleteItemFunction
       Handler: index.handler
       Runtime: nodejs16.x
-      MemorySize: 3008
+      MemorySize: 128
       Timeout: 30
       Tracing: Active
       Events:
