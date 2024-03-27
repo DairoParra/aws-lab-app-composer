@@ -5,9 +5,9 @@
 
 Bienvenido al repositorio oficial del **Webinar AWS Application Composer**, impartido por **[Dairo Parra](https://www.linkedin.com/in/dairo-parra/)**, especialista en arquitecturas serverless y AWS. Este curso es parte de la oferta educativa de **Bootcamp Institute**, diseñado para equiparte con las habilidades y conocimientos necesarios para desarrollar aplicaciones escalables y eficientes utilizando servicios serverless en AWS.
 
-## Objetivo del Curso 🎯
+## Objetivo 🎯
 
-El objetivo de este curso es brindarte una comprensión profunda de cómo diseñar, desarrollar e implementar aplicaciones serverless en AWS. A través de nuestro programa intensivo y práctico, te guiaremos desde los conceptos básicos hasta los avanzados, asegurando que adquieras las competencias requeridas para sobresalir en el campo del desarrollo serverless.
+El objetivo de este webinar es brindarte una comprensión profunda de cómo diseñar, desarrollar e implementar aplicaciones serverless en AWS. A través de nuestro programa intensivo y práctico, te guiaremos desde los conceptos básicos hasta los avanzados, asegurando que adquieras las competencias requeridas para sobresalir en el campo del desarrollo serverless.
 
 ## ¿Qué Aprenderás? 📚
 
@@ -36,7 +36,7 @@ Para comenzar con el curso, sigue estos pasos:
 
 ## Recursos Adicionales 🛠️
 
-- [Documentación oficial de AWS para desarrolladores](https://docs.aws.amazon.com/application-composer/latest/dg/what-is-composer.html)
+- [Documentación oficial para desarrolladores](https://docs.aws.amazon.com/application-composer/latest/dg/what-is-composer.html)
 - [AWS Toolkit for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode)
 - [AWS CLI](https://aws.amazon.com/cli/)
 
