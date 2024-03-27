@@ -22,9 +22,9 @@ El objetivo de este curso es brindarte una comprensión profunda de cómo diseñ
 
 Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
 
-- Conocimientos básicos de programación (preferentemente en Python o Node.js).
+- Conocimientos básicos de programación (preferentemente Node.js o Python).
 - Una cuenta de AWS (puedes usar el nivel gratuito).
-- Herramientas de desarrollo como Git, Postman y un IDE de tu preferencia.
+- Herramientas de desarrollo como Git, Postman y un IDE de tu preferencia (Visual Studio Code Sugerido).
 
 ## Cómo Empezar 🚀
 
@@ -36,13 +36,19 @@ Para comenzar con el curso, sigue estos pasos:
 
 ## Recursos Adicionales 🛠️
 
-- [Documentación oficial de AWS para desarrolladores](https://docs.aws.amazon.com/)
+- [Documentación oficial de AWS para desarrolladores](https://docs.aws.amazon.com/application-composer/latest/dg/what-is-composer.html)
+- [AWS Toolkit for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode)
 - [AWS CLI](https://aws.amazon.com/cli/)
-- [Serverless Framework](https://www.serverless.com/)
 
 ## Conéctate con Bootcamp Institute 🌐
 
-(Información de contacto y redes sociales)
+Queremos que seas parte de nuestra creciente comunidad. Sigue nuestras redes sociales y mantente actualizado con las últimas noticias, cursos y eventos de Bootcamp Institute.
+
+- **Página Web:** [Visita nuestra página](https://bootcamp-institute.com/) <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVDd5yWRGNNxHId-np7B31fLaWFtbUPkVZ-CJXc8oUJQ&s" alt="Web" width="20" height="20">
+- **Instagram:** [@bootcampinstitute](https://www.linkedin.com/company/bootcamp-institute) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" alt="Instagram" width="20" height="20">
+- **LinkedIn:** [Bootcamp Institute](https://www.instagram.com/bootcamp_institute/) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn" width="20" height="20">
+- **Facebook:** [Bootcamp Institute](https://www.facebook.com/bootcampinstituteLATAM/) <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" alt="Facebook" width="20" height="20">
+- **WhatsApp:** [Pregunta por Whatsapp](https://api.whatsapp.com/send?phone=525567474611&text=Hola,%20me%20gustar%C3%ADa%20recibir%20m%C3%A1s%20informaci%C3%B3n%20sobre%20su%20oferta%20educativa.) <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" alt="WhatsApp" width="20" height="20">
 
 ## ¿Tienes Preguntas? 🤔
 
@@ -54,4 +60,4 @@ Este repositorio está abierto a contribuciones. Si tienes ideas para mejorar el
 
 ---
 
-¡Gracias por ser parte del **Desarrollo Serverless en AWS** en **Bootcamp Institute**! Estamos emocionados de verte crecer en tu carrera profesional. 💼🚀
+¡Gracias por ser parte del **Webinar AWS Application Composer** en **Bootcamp Institute**! Estamos emocionados de verte crecer en tu carrera profesional. 💼🚀
