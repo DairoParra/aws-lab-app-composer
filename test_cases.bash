@@ -31,5 +31,6 @@ curl -s $INVOKE_URL/items/d5ef436 | js-beautify
 # Envía una solicitud DELETE a la API para eliminar el ítem con el ID 'd2ef980' de la base de datos
 curl -X "DELETE" $INVOKE_URL/items/d2ef980
 
-
+# Realiza una solicitud GET a la API, solicitando los datos nuevamente para verificar el comportamiento de las peticiones HTTP.
+curl -s $INVOKE_URL/items | js-beautify 
 
