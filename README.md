@@ -22,9 +22,9 @@ El objetivo de este webinar es brindarte una comprensión profunda de cómo dise
 
 Antes de comenzar, asegúrate de cumplir con los siguientes requisitos:
 
-- Conocimientos básicos de programación (preferentemente Node.js o Python).
 - Una cuenta de AWS (puedes usar el nivel gratuito).
 - Herramientas de desarrollo como Git, Postman y un IDE de tu preferencia (Visual Studio Code Sugerido).
+- Instala [AWS Serverless Application Model CLI](https://aws.amazon.com/cli/)
 
 ## Cómo Empezar 🚀
 
@@ -32,14 +32,20 @@ Para comenzar con el curso, sigue estos pasos:
 
 1. Clona este repositorio para tener acceso al material y los ejercicios del curso.
 2. Instala las herramientas y software recomendado listados en la sección de recursos adicionales.
-3. Sigue las lecciones y prácticas propuestas en el orden sugerido.
-4. Puedes hacer uso del archivo test_cases.bash para probar tus recursos.
+3. En la linea de comandos ejecuta:
+
+    ```bash
+    sam build
+    sam deploy --guided
+    ```
+
+    Elija un nombre de pila, seleccione la región de AWS deseada y permita que SAM cree roles con los permisos requeridos. Una vez que haya ejecutado el modo guiado una vez, podrá usar ```sam deploy``` en el futuro para usar estos valores predeterminados.
 
 ## Recursos Adicionales 🛠️
 
+- Puedes hacer uso del archivo *test_cases.bash* para probar tus recursos.
 - [Documentación oficial para desarrolladores](https://docs.aws.amazon.com/application-composer/latest/dg/what-is-composer.html)
 - [AWS Toolkit for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode)
-- [AWS CLI](https://aws.amazon.com/cli/)
 
 ## Conéctate con Bootcamp Institute 🌐
 
