@@ -4,6 +4,7 @@
 <img src="https://bootcamp-institute.com/cdn/shop/files/Bootcamp-Institute_Aprende-Cloud-computing-con-los-expertos.jpg?v=1650398319" alt="Logo" width="200" height="100">
 
 Bienvenido al repositorio oficial del **Webinar AWS Application Composer**, impartido por **[Dairo Parra](https://www.linkedin.com/in/dairo-parra/)**, especialista en arquitecturas serverless y AWS. Este curso es parte de la oferta educativa de **Bootcamp Institute**, diseñado para equiparte con las habilidades y conocimientos necesarios para desarrollar aplicaciones escalables y eficientes utilizando servicios serverless en AWS.
+
 Creditos AWS Workshop: ["Build your first CRUD API in 45 minutes or less!"]([https://aws.amazon.com/cli/](https://catalog.us-east-1.prod.workshops.aws/workshops/2c8321cb-812c-45a9-927d-206eea3a500f/en-US))
 
 ## Objetivo 🎯
